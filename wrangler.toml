@@ -1,0 +1,11 @@
+name = "zetra-media"
+main = "worker.js"
+compatibility_date = "2026-08-01"
+
+[vars]
+B2_ENDPOINT = "s3.us-east-005.backblazeb2.com"
+B2_BUCKET = "zetra-storage-q8"
+B2_REGION = "us-east-005"
+
+SUPABASE_URL = "https://ssmwuihkafrulmvtiuam.supabase.co"
+SUPABASE_ANON_KEY = "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"
