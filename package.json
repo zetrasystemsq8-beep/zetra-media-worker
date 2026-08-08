@@ -1,0 +1,8 @@
+{
+  "name": "zetra-media-worker",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "aws4fetch": "^1.0.19"
+  }
+}
